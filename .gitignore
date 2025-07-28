@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.bin
+
+# Chroma vector DB folder
+chrome_langchain_db/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
